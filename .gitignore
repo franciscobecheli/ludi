@@ -1,0 +1,54 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.opendb
+*.VC.db
+*.VC.opendb
+*.ipch/
+
+# External libraries
+/external
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Ll]og/
+[Bb]in/
+[Bb]uild/
+[Ll]ogs/
+
+# Intermediate files
+*.obj
+*.idb
+*.ilk
+*.tlog
+*.pch
+*.res
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Generated project data
+*.aps
+*.ncb
+*.sdf
+*.db
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.DS_Store
+
+# SFML temporary runtime copies (copied by Post-Build)
+external/SFML/bin/
+external/SFML/lib/*.dll

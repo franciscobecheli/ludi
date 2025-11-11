@@ -1,9 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Jogo TecProg.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
-  GerenciadorGrafico.cpp
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(152,44): warning C4244: 'argumento': conversão de 'float' para 'unsigned int', possível perda de dados
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(180,27): warning C4018: '>=': incompatibilidade de signed/unsigned
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(191,27): warning C4018: '>=': incompatibilidade de signed/unsigned
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(200,22): warning C4018: '>=': incompatibilidade de signed/unsigned
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(185): warning C4715: 'GerenciadorGrafico::getDimensoesX': nem todos os caminhos de controle retornam um valor
-C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Jogo TecProg\GerenciadorGrafico.cpp(196): warning C4715: 'GerenciadorGrafico::getDimensoesY': nem todos os caminhos de controle retornam um valor
-  Jogo TecProg.vcxproj -> C:\Users\AnaPaula\Documents\Faculdade\2021.1\Técnicas de Programação\Jogo\Jogo_Repositorio_Dani\Jogo-main\Debug\Ludi.exe
