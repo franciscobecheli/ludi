@@ -10,7 +10,7 @@
 *.ipch/
 
 # External libraries
-/external
+/external/
 
 # Build outputs
 Debug/
